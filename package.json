@@ -1,0 +1,16 @@
+{
+  "name": "regsorcery",
+  "version": "1.0.0",
+  "description": "Linear Regression ",
+  "main": "index.js",
+  "dependencies": {
+    "csvtojson": "^1.1.7",
+    "ml-regression": "^4.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Will Sokolowski",
+  "license": "ISC"
+}
